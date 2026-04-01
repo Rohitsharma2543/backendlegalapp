@@ -1,0 +1,1386 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "name": "Ramesh Kumar",
+      "email": "client@example.com",
+      "password": "client123",
+      "role": "client",
+      "location": "Hyderabad",
+      "lat": 17.385,
+      "lng": 78.4867,
+      "phone": "9876543210",
+      "createdAt": "2025-02-01T10:00:00.000Z"
+    },
+    {
+      "id": "u2",
+      "name": "Advocate Priya Sharma",
+      "email": "advocate@example.com",
+      "password": "adv123",
+      "role": "advocate",
+      "category": "Family Law",
+      "fee": 1500,
+      "experience": "8 years",
+      "availability": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ],
+      "location": "Mumbai",
+      "rating": 4.5,
+      "totalCases": 45,
+      "phone": "9876543211",
+      "createdAt": "2025-01-15T10:00:00.000Z"
+    },
+    {
+      "id": "u3",
+      "name": "Advocate Vikram Singh",
+      "email": "kumar@law.com",
+      "password": "kumar123",
+      "role": "advocate",
+      "category": "Criminal Law",
+      "fee": 2000,
+      "experience": "12 years",
+      "availability": [
+        "Tuesday",
+        "Thursday",
+        "Saturday"
+      ],
+      "location": "Delhi",
+      "rating": 4.8,
+      "totalCases": 78,
+      "phone": "9876543212",
+      "createdAt": "2025-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "u4",
+      "name": "Advocate Sneha Reddy",
+      "email": "sneha@law.com",
+      "password": "sneha123",
+      "role": "advocate",
+      "category": "Property Law",
+      "fee": 1800,
+      "experience": "5 years",
+      "availability": [
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "location": "Hyderabad",
+      "rating": 4.3,
+      "totalCases": 32,
+      "phone": "9876543213",
+      "createdAt": "2025-01-20T10:00:00.000Z"
+    },
+    {
+      "name": "Rohit Sharma",
+      "email": "rohit25sharma32@gmail.com",
+      "password": "Rohit@123",
+      "role": "client",
+      "phone": "978784753856",
+      "location": "Hyderbad",
+      "id": "u1774614660223",
+      "createdAt": "2026-03-27T12:31:00.223Z"
+    },
+    {
+      "name": "Ravi",
+      "email": "ravi@gmail.com",
+      "password": "123456",
+      "role": "client",
+      "phone": "987654321",
+      "location": "hyd",
+      "id": "u1774667729982",
+      "createdAt": "2026-03-28T03:15:29.982Z"
+    },
+    {
+      "name": "Rohit Sharma",
+      "email": "rohit2543@gmail.com",
+      "password": "123456",
+      "role": "advocate",
+      "phone": "98989898",
+      "location": "hyd",
+      "id": "u1774668216074",
+      "createdAt": "2026-03-28T03:23:36.074Z",
+      "category": "General Law",
+      "fee": 1500,
+      "availability": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ],
+      "rating": 0
+    },
+    {
+      "name": "Nitesh",
+      "email": "nitesh@gmail.com",
+      "password": "123456",
+      "role": "client",
+      "phone": "7897897890",
+      "location": "mumbai",
+      "id": "L6AszXvLjaA",
+      "createdAt": "2026-03-28T09:40:23.023Z"
+    },
+    {
+      "name": "Jagadeshwari",
+      "email": "Jagadeshwari@gmail.com",
+      "password": "123456",
+      "role": "advocate",
+      "phone": "789078906",
+      "location": "Pune",
+      "id": "OKcC1ARnMyk",
+      "createdAt": "2026-03-28T10:02:57.698Z",
+      "category": "General Law",
+      "fee": 2000,
+      "availability": [
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ],
+      "rating": 0
+    },
+    {
+      "id": "u10",
+      "name": "Ankit Verma",
+      "email": "ankit@gmail.com",
+      "password": "123456",
+      "role": "client",
+      "location": "Delhi",
+      "phone": "9000000001",
+      "createdAt": "2026-03-28T12:00:00.000Z"
+    },
+    {
+      "id": "u11",
+      "name": "Meera Nair",
+      "email": "meera@gmail.com",
+      "password": "123456",
+      "role": "client",
+      "location": "Kerala",
+      "phone": "9000000002",
+      "createdAt": "2026-03-28T12:05:00.000Z"
+    },
+    {
+      "id": "u12",
+      "name": "Advocate Rahul Mehta",
+      "email": "rahul@law.com",
+      "password": "123456",
+      "role": "advocate",
+      "category": "Corporate Law",
+      "fee": 2500,
+      "experience": "10 years",
+      "availability": [
+        "Monday",
+        "Thursday"
+      ],
+      "location": "Mumbai",
+      "rating": 4.6,
+      "totalCases": 60,
+      "phone": "9000000003",
+      "createdAt": "2026-03-28T12:10:00.000Z"
+    },
+    {
+      "id": "u13",
+      "name": "Advocate Kavya Iyer",
+      "email": "kavya@law.com",
+      "password": "123456",
+      "role": "advocate",
+      "category": "Family Law",
+      "fee": 1800,
+      "experience": "7 years",
+      "availability": [
+        "Tuesday",
+        "Friday"
+      ],
+      "location": "Chennai",
+      "rating": 4.4,
+      "totalCases": 40,
+      "phone": "9000000004",
+      "createdAt": "2026-03-28T12:15:00.000Z"
+    },
+    {
+      "id": "u14",
+      "name": "Suresh Yadav",
+      "email": "suresh@gmail.com",
+      "password": "123456",
+      "role": "client",
+      "location": "Lucknow",
+      "phone": "9000000005",
+      "createdAt": "2026-03-28T12:20:00.000Z"
+    },
+    {
+      "id": "u15",
+      "name": "Advocate Aman Gupta",
+      "email": "aman@law.com",
+      "password": "123456",
+      "role": "advocate",
+      "category": "Criminal Law",
+      "fee": 3000,
+      "experience": "15 years",
+      "availability": [
+        "Wednesday",
+        "Saturday"
+      ],
+      "location": "Delhi",
+      "rating": 4.9,
+      "totalCases": 120,
+      "phone": "9000000006",
+      "createdAt": "2026-03-28T12:25:00.000Z"
+    },
+    {
+      "id": "u16",
+      "name": "Priyanka Das",
+      "email": "priyanka@gmail.com",
+      "password": "123456",
+      "role": "client",
+      "location": "Kolkata",
+      "phone": "9000000007",
+      "createdAt": "2026-03-28T12:30:00.000Z"
+    },
+    {
+      "id": "u17",
+      "name": "Advocate Kiran Patel",
+      "email": "kiran@law.com",
+      "password": "123456",
+      "role": "advocate",
+      "category": "Property Law",
+      "fee": 2200,
+      "experience": "9 years",
+      "availability": [
+        "Monday",
+        "Tuesday"
+      ],
+      "location": "Ahmedabad",
+      "rating": 4.2,
+      "totalCases": 55,
+      "phone": "9000000008",
+      "createdAt": "2026-03-28T12:35:00.000Z"
+    },
+    {
+      "id": "u18",
+      "name": "Rahul Reddy",
+      "email": "rahul@gmail.com",
+      "password": "123456",
+      "role": "client",
+      "location": "Hyderabad",
+      "phone": "9000000009",
+      "createdAt": "2026-03-28T12:40:00.000Z"
+    },
+    {
+      "id": "u19",
+      "name": "Advocate Neha Kapoor",
+      "email": "neha@law.com",
+      "password": "123456",
+      "role": "advocate",
+      "category": "Civil Law",
+      "fee": 2000,
+      "experience": "6 years",
+      "availability": [
+        "Thursday",
+        "Friday"
+      ],
+      "location": "Delhi",
+      "rating": 4.1,
+      "totalCases": 30,
+      "phone": "9000000010",
+      "createdAt": "2026-03-28T12:45:00.000Z"
+    },
+    {
+      "id": "u20",
+      "name": "Sunil Sharma",
+      "email": "sunil@gmail.com",
+      "password": "123456",
+      "role": "client",
+      "location": "Jaipur",
+      "phone": "9000000011",
+      "createdAt": "2026-03-28T12:50:00.000Z"
+    },
+    {
+      "id": "u21",
+      "name": "Advocate Deepak Singh",
+      "email": "deepak@law.com",
+      "password": "123456",
+      "role": "advocate",
+      "category": "Labour Law",
+      "fee": 1700,
+      "experience": "8 years",
+      "availability": [
+        "Monday",
+        "Friday"
+      ],
+      "location": "Chandigarh",
+      "rating": 4.3,
+      "totalCases": 48,
+      "phone": "9000000012",
+      "createdAt": "2026-03-28T12:55:00.000Z"
+    },
+    {
+      "id": "u22",
+      "name": "Pooja Singh",
+      "email": "pooja@gmail.com",
+      "password": "123456",
+      "role": "client",
+      "location": "Bhopal",
+      "phone": "9000000013",
+      "createdAt": "2026-03-28T13:00:00.000Z"
+    },
+    {
+      "id": "u23",
+      "name": "Advocate Ritu Jain",
+      "email": "ritu@law.com",
+      "password": "123456",
+      "role": "advocate",
+      "category": "Tax Law",
+      "fee": 2800,
+      "experience": "11 years",
+      "availability": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "location": "Delhi",
+      "rating": 4.7,
+      "totalCases": 85,
+      "phone": "9000000014",
+      "createdAt": "2026-03-28T13:05:00.000Z"
+    },
+    {
+      "id": "u24",
+      "name": "Karthik",
+      "email": "karthik@gmail.com",
+      "password": "123456",
+      "role": "client",
+      "location": "Chennai",
+      "phone": "9000000015",
+      "createdAt": "2026-03-28T13:10:00.000Z"
+    },
+    {
+      "id": "u25",
+      "name": "Advocate Arjun Rao",
+      "email": "arjun@law.com",
+      "password": "123456",
+      "role": "advocate",
+      "category": "Cyber Law",
+      "fee": 2600,
+      "experience": "9 years",
+      "availability": [
+        "Wednesday",
+        "Saturday"
+      ],
+      "location": "Bangalore",
+      "rating": 4.6,
+      "totalCases": 70,
+      "phone": "9000000016",
+      "createdAt": "2026-03-28T13:15:00.000Z"
+    },
+    {
+      "id": "u26",
+      "name": "Divya",
+      "email": "divya@gmail.com",
+      "password": "123456",
+      "role": "client",
+      "location": "Pune",
+      "phone": "9000000017",
+      "createdAt": "2026-03-28T13:20:00.000Z"
+    },
+    {
+      "id": "u27",
+      "name": "Advocate Mohan Rao",
+      "email": "mohan@law.com",
+      "password": "123456",
+      "role": "advocate",
+      "category": "General Law",
+      "fee": 1500,
+      "experience": "6 years",
+      "availability": [
+        "Monday",
+        "Wednesday"
+      ],
+      "location": "Hyderabad",
+      "rating": 4,
+      "totalCases": 25,
+      "phone": "9000000018",
+      "createdAt": "2026-03-28T13:25:00.000Z"
+    },
+    {
+      "id": "u28",
+      "name": "Anjali",
+      "email": "anjali@gmail.com",
+      "password": "123456",
+      "role": "client",
+      "location": "Delhi",
+      "phone": "9000000019",
+      "createdAt": "2026-03-28T13:30:00.000Z"
+    },
+    {
+      "id": "u29",
+      "name": "Advocate Vivek Sharma",
+      "email": "vivek@law.com",
+      "password": "123456",
+      "role": "advocate",
+      "category": "Property Law",
+      "fee": 2100,
+      "experience": "10 years",
+      "availability": [
+        "Tuesday",
+        "Friday"
+      ],
+      "location": "Noida",
+      "rating": 4.5,
+      "totalCases": 65,
+      "phone": "9000000020",
+      "createdAt": "2026-03-28T13:35:00.000Z"
+    },
+    {
+      "name": "Rohit Sharma",
+      "email": "rohit123@gmail.com",
+      "password": "123456",
+      "role": "client",
+      "phone": "897689567",
+      "location": "Hyderbad",
+      "id": "JrqsK-XLBrY",
+      "createdAt": "2026-03-28T11:43:22.083Z"
+    },
+    {
+      "name": "Rahul",
+      "email": "rahul32@gmail.com",
+      "password": "rahul123",
+      "role": "client",
+      "phone": "1234567890",
+      "location": "hyd",
+      "id": "mQef8yl8fdQ",
+      "createdAt": "2026-03-28T11:47:23.293Z"
+    }
+  ],
+  "cases": [
+    {
+      "id": "c1",
+      "clientId": "u1",
+      "title": "Property Boundary Dispute",
+      "description": "Neighbor encroaching on my land in Telangana",
+      "languageInput": "telugu",
+      "translatedText": "Property dispute regarding land encroachment",
+      "category": "Property Law",
+      "status": "active",
+      "timeline": [
+        "Submitted: 2025-02-01",
+        "Accepted: 3/27/2026"
+      ],
+      "advocateId": "u2",
+      "createdAt": "2025-02-01T10:00:00.000Z",
+      "priority": "High",
+      "documents": []
+    },
+    {
+      "id": "c2",
+      "clientId": "u1",
+      "title": "Family Maintenance Case",
+      "description": "Husband not providing maintenance",
+      "languageInput": "hindi",
+      "translatedText": "Family maintenance case for wife and children",
+      "category": "Family Law",
+      "status": "closed",
+      "timeline": [
+        "Submitted: 2025-01-10",
+        "Accepted: 2025-01-12",
+        "Resolved: 3/28/2026"
+      ],
+      "advocateId": "u2",
+      "createdAt": "2025-01-10T10:00:00.000Z",
+      "priority": "Medium",
+      "documents": []
+    },
+    {
+      "id": "c1774668023412",
+      "clientId": "u1774667729982",
+      "title": "murder case",
+      "description": "The case was filed on 28th march on Ravi Kumar ",
+      "languageInput": "english",
+      "translatedText": "The case was filed on 28th march on Ravi Kumar ",
+      "category": "General Law",
+      "status": "active",
+      "timeline": [
+        "Submitted: 3/28/2026",
+        "Accepted: 3/28/2026"
+      ],
+      "advocateId": "u1774668216074",
+      "createdAt": "2026-03-28T03:20:23.415Z",
+      "priority": "Medium",
+      "documents": []
+    },
+    {
+      "id": "N36zjBBzkCc",
+      "clientId": "u1774667729982",
+      "title": "Divorce Case - Domestic Violence",
+      "description": "I am facing serious issues in my marriage. My husband is mentally harassing me and not providing financial support. We have been living separately for the last 6 months. I want to file for divorce and also seek maintenance.",
+      "languageInput": "english",
+      "translatedText": "I am facing serious issues in my marriage. My husband is mentally harassing me and not providing financial support. We have been living separately for the last 6 months. I want to file for divorce and also seek maintenance.",
+      "category": "Family Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T08:06:58.042Z",
+      "priority": "Medium",
+      "documents": []
+    },
+    {
+      "id": "8wn0GJ7tKJk",
+      "clientId": "u1",
+      "title": "Cheque Bounce Case",
+      "description": "A cheque issued to me has bounced due to insufficient funds.",
+      "languageInput": "english",
+      "translatedText": "A cheque issued to me has bounced due to insufficient funds.",
+      "category": "General Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T09:16:13.578Z",
+      "priority": "Medium",
+      "documents": []
+    },
+    {
+      "id": "4VqORAjL5jY",
+      "clientId": "u1774614660223",
+      "title": "Land Dispute Issue",
+      "description": "My neighbor has occupied part of my land without permission.",
+      "languageInput": "english",
+      "translatedText": "My neighbor has occupied part of my land without permission.",
+      "category": "Property Law",
+      "status": "active",
+      "timeline": [
+        "Submitted: 3/28/2026",
+        "Accepted: 3/28/2026"
+      ],
+      "advocateId": "u29",
+      "createdAt": "2026-03-28T09:24:01.200Z",
+      "priority": "Medium",
+      "documents": []
+    },
+    {
+      "id": "T6iv2JCAQPs",
+      "clientId": "u1774614660223",
+      "title": "Marriage Dispute",
+      "description": "विवाह में विवाद चल रहा है और सलाह चाहिए।",
+      "languageInput": "hindi",
+      "translatedText": "[AI Translated] विवाह में विवाद चल रहा है और सलाह चाहिए। (Original: hindi)",
+      "category": "General Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T09:24:54.027Z",
+      "priority": "Medium",
+      "documents": []
+    },
+    {
+      "id": "H8VjhXEAiEw",
+      "clientId": "u1774614660223",
+      "title": "Marriage Dispute (वैवाहिक विवाद)",
+      "description": "विवाह में विवाद चल रहा है और सलाह चाहिए।",
+      "languageInput": "hindi",
+      "translatedText": "[AI Translated] विवाह में विवाद चल रहा है और सलाह चाहिए। (Original: hindi)",
+      "category": "General Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T09:27:01.860Z",
+      "priority": "Medium",
+      "documents": []
+    },
+    {
+      "id": "6KPn6TZNxA8",
+      "clientId": "L6AszXvLjaA",
+      "title": "Land Registration Delay (భూమి రిజిస్ట్రేషన్‌లో ఆలస్యం)",
+      "description": "భూమి రిజిస్ట్రేషన్ ఆలస్యమవుతోంది.",
+      "languageInput": "telugu",
+      "translatedText": "[AI Translated] భూమి రిజిస్ట్రేషన్ ఆలస్యమవుతోంది. (Original: telugu)",
+      "category": "General Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T09:44:41.054Z",
+      "priority": "Medium",
+      "documents": []
+    },
+    {
+      "id": "XjSGo74X65E",
+      "clientId": "L6AszXvLjaA",
+      "title": "Mobile Theft (మొబైల్ దొంగతనం)",
+      "description": "ప్రజా ప్రదేశంలో నా మొబైల్ ఫోన్ దొంగిలించబడింది.",
+      "languageInput": "telugu",
+      "translatedText": "[AI Translated] ప్రజా ప్రదేశంలో నా మొబైల్ ఫోన్ దొంగిలించబడింది. (Original: telugu)",
+      "category": "General Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T09:48:31.380Z",
+      "priority": "Medium",
+      "documents": []
+    },
+    {
+      "id": "c100",
+      "clientId": "u10",
+      "title": "Employment Salary Issue",
+      "description": "Salary not paid for 2 months.",
+      "languageInput": "english",
+      "translatedText": "Salary not paid for 2 months.",
+      "category": "Labour Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T14:00:00.000Z",
+      "priority": "Medium",
+      "documents": []
+    },
+    {
+      "id": "c101",
+      "clientId": "u10",
+      "title": "Rental Dispute",
+      "description": "Tenant not vacating property.",
+      "languageInput": "english",
+      "translatedText": "Tenant not vacating property.",
+      "category": "Property Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T14:01:00.000Z",
+      "priority": "High",
+      "documents": []
+    },
+    {
+      "id": "c102",
+      "clientId": "u11",
+      "title": "Family Dispute",
+      "description": "Family property sharing issue.",
+      "languageInput": "english",
+      "translatedText": "Family property sharing issue.",
+      "category": "Family Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T14:02:00.000Z",
+      "priority": "Medium",
+      "documents": []
+    },
+    {
+      "id": "c103",
+      "clientId": "u11",
+      "title": "Bank Fraud",
+      "description": "Unauthorized transaction in account.",
+      "languageInput": "english",
+      "translatedText": "Unauthorized transaction in account.",
+      "category": "Cyber Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T14:03:00.000Z",
+      "priority": "High",
+      "documents": []
+    },
+    {
+      "id": "c104",
+      "clientId": "u14",
+      "title": "Land Dispute",
+      "description": "Neighbor encroachment issue.",
+      "languageInput": "english",
+      "translatedText": "Neighbor encroachment issue.",
+      "category": "Property Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T14:04:00.000Z",
+      "priority": "High",
+      "documents": []
+    },
+    {
+      "id": "c105",
+      "clientId": "u14",
+      "title": "Electricity Bill Issue",
+      "description": "Incorrect electricity bill generated.",
+      "languageInput": "english",
+      "translatedText": "Incorrect electricity bill generated.",
+      "category": "Consumer Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T14:05:00.000Z",
+      "priority": "Low",
+      "documents": []
+    },
+    {
+      "id": "c106",
+      "clientId": "u16",
+      "title": "Workplace Harassment",
+      "description": "Facing mental harassment at workplace.",
+      "languageInput": "english",
+      "translatedText": "Facing mental harassment at workplace.",
+      "category": "Labour Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T14:06:00.000Z",
+      "priority": "High",
+      "documents": []
+    },
+    {
+      "id": "c107",
+      "clientId": "u16",
+      "title": "Loan Recovery Issue",
+      "description": "Money not returned by borrower.",
+      "languageInput": "english",
+      "translatedText": "Money not returned by borrower.",
+      "category": "Civil Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T14:07:00.000Z",
+      "priority": "Medium",
+      "documents": []
+    },
+    {
+      "id": "c108",
+      "clientId": "u18",
+      "title": "Cyber Fraud",
+      "description": "Lost money in online scam.",
+      "languageInput": "english",
+      "translatedText": "Lost money in online scam.",
+      "category": "Cyber Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T14:08:00.000Z",
+      "priority": "High",
+      "documents": []
+    },
+    {
+      "id": "c109",
+      "clientId": "u18",
+      "title": "Property Registration Delay",
+      "description": "Delay in property registration.",
+      "languageInput": "english",
+      "translatedText": "Delay in property registration.",
+      "category": "Property Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T14:09:00.000Z",
+      "priority": "Medium",
+      "documents": []
+    },
+    {
+      "id": "c110",
+      "clientId": "u20",
+      "title": "Divorce Case",
+      "description": "Seeking legal advice for divorce.",
+      "languageInput": "english",
+      "translatedText": "Seeking legal advice for divorce.",
+      "category": "Family Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T14:10:00.000Z",
+      "priority": "High",
+      "documents": []
+    },
+    {
+      "id": "c111",
+      "clientId": "u20",
+      "title": "Consumer Complaint",
+      "description": "Defective product received.",
+      "languageInput": "english",
+      "translatedText": "Defective product received.",
+      "category": "Consumer Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T14:11:00.000Z",
+      "priority": "Low",
+      "documents": []
+    },
+    {
+      "id": "c112",
+      "clientId": "u22",
+      "title": "Illegal Construction",
+      "description": "Neighbor building without permission.",
+      "languageInput": "english",
+      "translatedText": "Neighbor building without permission.",
+      "category": "Property Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T14:12:00.000Z",
+      "priority": "Medium",
+      "documents": []
+    },
+    {
+      "id": "c113",
+      "clientId": "u22",
+      "title": "Water Dispute",
+      "description": "Apartment water usage conflict.",
+      "languageInput": "english",
+      "translatedText": "Apartment water usage conflict.",
+      "category": "Civil Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T14:13:00.000Z",
+      "priority": "Low",
+      "documents": []
+    },
+    {
+      "id": "c114",
+      "clientId": "u24",
+      "title": "School Fee Issue",
+      "description": "School charging extra fees.",
+      "languageInput": "english",
+      "translatedText": "School charging extra fees.",
+      "category": "Consumer Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T14:14:00.000Z",
+      "priority": "Medium",
+      "documents": []
+    },
+    {
+      "id": "c115",
+      "clientId": "u24",
+      "title": "Mobile Theft",
+      "description": "Mobile stolen in public place.",
+      "languageInput": "english",
+      "translatedText": "Mobile stolen in public place.",
+      "category": "Criminal Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T14:15:00.000Z",
+      "priority": "High",
+      "documents": []
+    },
+    {
+      "id": "c116",
+      "clientId": "u26",
+      "title": "Insurance Claim Issue",
+      "description": "Claim rejected unfairly.",
+      "languageInput": "english",
+      "translatedText": "Claim rejected unfairly.",
+      "category": "Insurance Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T14:16:00.000Z",
+      "priority": "Medium",
+      "documents": []
+    },
+    {
+      "id": "c117",
+      "clientId": "u26",
+      "title": "Job Termination",
+      "description": "Terminated without notice.",
+      "languageInput": "english",
+      "translatedText": "Terminated without notice.",
+      "category": "Labour Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T14:17:00.000Z",
+      "priority": "High",
+      "documents": []
+    },
+    {
+      "id": "c118",
+      "clientId": "u28",
+      "title": "Cheque Bounce",
+      "description": "Cheque bounced due to insufficient funds.",
+      "languageInput": "english",
+      "translatedText": "Cheque bounced due to insufficient funds.",
+      "category": "General Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T14:18:00.000Z",
+      "priority": "Medium",
+      "documents": []
+    },
+    {
+      "id": "c119",
+      "clientId": "u28",
+      "title": "Dowry Harassment",
+      "description": "Facing harassment after marriage.",
+      "languageInput": "english",
+      "translatedText": "Facing harassment after marriage.",
+      "category": "Family Law",
+      "status": "pending",
+      "timeline": [
+        "Submitted: 3/28/2026"
+      ],
+      "advocateId": null,
+      "createdAt": "2026-03-28T14:19:00.000Z",
+      "priority": "High",
+      "documents": []
+    }
+  ],
+  "appointments": [
+    {
+      "id": "jvFL535jFfk",
+      "clientId": "u1774614660223",
+      "advocateId": "u1774668216074",
+      "time": "2026-03-30 01:00pm",
+      "status": "pending",
+      "createdAt": "2026-03-28T06:40:16.161Z"
+    },
+    {
+      "id": "z3DQJRcwdfg",
+      "clientId": "u1",
+      "advocateId": "u2",
+      "time": "2026-04-02 03:20pm",
+      "status": "pending",
+      "createdAt": "2026-03-28T09:21:01.723Z"
+    },
+    {
+      "id": "a100",
+      "clientId": "u10",
+      "advocateId": "u12",
+      "time": "2026-04-01 11:00am",
+      "status": "pending",
+      "createdAt": "2026-03-28T14:30:00.000Z"
+    },
+    {
+      "id": "a101",
+      "clientId": "u11",
+      "advocateId": "u13",
+      "time": "2026-04-02 02:00pm",
+      "status": "confirmed",
+      "createdAt": "2026-03-28T14:31:00.000Z"
+    },
+    {
+      "id": "a102",
+      "clientId": "u14",
+      "advocateId": "u17",
+      "time": "2026-04-03 10:30am",
+      "status": "pending",
+      "createdAt": "2026-03-28T14:32:00.000Z"
+    },
+    {
+      "id": "a103",
+      "clientId": "u16",
+      "advocateId": "u15",
+      "time": "2026-04-04 04:00pm",
+      "status": "confirmed",
+      "createdAt": "2026-03-28T14:33:00.000Z"
+    },
+    {
+      "id": "a104",
+      "clientId": "u18",
+      "advocateId": "u27",
+      "time": "2026-04-05 12:00pm",
+      "status": "pending",
+      "createdAt": "2026-03-28T14:34:00.000Z"
+    },
+    {
+      "id": "a105",
+      "clientId": "u20",
+      "advocateId": "u13",
+      "time": "2026-04-06 03:30pm",
+      "status": "confirmed",
+      "createdAt": "2026-03-28T14:35:00.000Z"
+    },
+    {
+      "id": "a106",
+      "clientId": "u22",
+      "advocateId": "u21",
+      "time": "2026-04-07 01:15pm",
+      "status": "pending",
+      "createdAt": "2026-03-28T14:36:00.000Z"
+    },
+    {
+      "id": "a107",
+      "clientId": "u24",
+      "advocateId": "u25",
+      "time": "2026-04-08 11:45am",
+      "status": "confirmed",
+      "createdAt": "2026-03-28T14:37:00.000Z"
+    },
+    {
+      "id": "a108",
+      "clientId": "u26",
+      "advocateId": "u29",
+      "time": "2026-04-09 05:00pm",
+      "status": "pending",
+      "createdAt": "2026-03-28T14:38:00.000Z"
+    },
+    {
+      "id": "a109",
+      "clientId": "u28",
+      "advocateId": "u15",
+      "time": "2026-04-10 02:30pm",
+      "status": "confirmed",
+      "createdAt": "2026-03-28T14:39:00.000Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "m1774668443297",
+      "senderId": "u1774668216074",
+      "receiverId": "u1774667729982",
+      "text": "hi",
+      "timestamp": "2026-03-28T03:27:23.297Z",
+      "read": false
+    },
+    {
+      "id": "jvJ3W-enrG0",
+      "senderId": "u2",
+      "receiverId": "u1",
+      "text": "hi",
+      "timestamp": "2026-03-28T09:04:55.311Z",
+      "read": false
+    },
+    {
+      "id": "TR_CglKigO0",
+      "senderId": "u1774668216074",
+      "receiverId": "u1774667729982",
+      "text": "hi Ravi, I'am availble on 30th march....",
+      "timestamp": "2026-03-28T09:56:22.665Z",
+      "read": false
+    },
+    {
+      "id": "M4nlMdDl61s",
+      "senderId": "u1774667729982",
+      "receiverId": "u1774668216074",
+      "text": "okay Sir, we will  meet on 30th march, i will explain about case briefly on that day.... ",
+      "timestamp": "2026-03-28T09:58:54.668Z",
+      "read": false
+    },
+    {
+      "id": "-jeBa_xi5Ow",
+      "senderId": "u29",
+      "receiverId": "u1774614660223",
+      "text": "hi",
+      "timestamp": "2026-03-28T10:49:21.757Z",
+      "read": false
+    }
+  ],
+  "reviews": [
+    {
+      "id": "r1",
+      "advocateId": "u2",
+      "clientId": "u1",
+      "rating": 5,
+      "comment": "Excellent advocate! Very knowledgeable and helpful.",
+      "date": "2025-02-01T10:00:00.000Z"
+    },
+    {
+      "id": "r2",
+      "advocateId": "u2",
+      "clientId": "u10",
+      "rating": 4,
+      "comment": "Good support and clear explanation.",
+      "date": "2026-03-20T10:00:00.000Z"
+    },
+    {
+      "id": "r3",
+      "advocateId": "u3",
+      "clientId": "u11",
+      "rating": 5,
+      "comment": "Handled my case professionally.",
+      "date": "2026-03-21T10:00:00.000Z"
+    },
+    {
+      "id": "r4",
+      "advocateId": "u3",
+      "clientId": "u14",
+      "rating": 4,
+      "comment": "Very experienced and confident.",
+      "date": "2026-03-22T10:00:00.000Z"
+    },
+    {
+      "id": "r5",
+      "advocateId": "u4",
+      "clientId": "u16",
+      "rating": 3,
+      "comment": "Average experience, but helpful.",
+      "date": "2026-03-23T10:00:00.000Z"
+    },
+    {
+      "id": "r6",
+      "advocateId": "u12",
+      "clientId": "u18",
+      "rating": 5,
+      "comment": "Excellent corporate law expertise.",
+      "date": "2026-03-24T10:00:00.000Z"
+    },
+    {
+      "id": "r7",
+      "advocateId": "u13",
+      "clientId": "u20",
+      "rating": 4,
+      "comment": "Very supportive and understanding.",
+      "date": "2026-03-25T10:00:00.000Z"
+    },
+    {
+      "id": "r8",
+      "advocateId": "u15",
+      "clientId": "u22",
+      "rating": 5,
+      "comment": "Solved my case quickly and efficiently.",
+      "date": "2026-03-26T10:00:00.000Z"
+    },
+    {
+      "id": "r9",
+      "advocateId": "u17",
+      "clientId": "u24",
+      "rating": 4,
+      "comment": "Good knowledge in property disputes.",
+      "date": "2026-03-27T10:00:00.000Z"
+    },
+    {
+      "id": "r10",
+      "advocateId": "u21",
+      "clientId": "u26",
+      "rating": 3,
+      "comment": "Response time was slow.",
+      "date": "2026-03-27T12:00:00.000Z"
+    },
+    {
+      "id": "r11",
+      "advocateId": "u25",
+      "clientId": "u28",
+      "rating": 5,
+      "comment": "Highly skilled in cyber law.",
+      "date": "2026-03-27T14:00:00.000Z"
+    },
+    {
+      "id": "r12",
+      "advocateId": "u27",
+      "clientId": "u10",
+      "rating": 4,
+      "comment": "Affordable and helpful.",
+      "date": "2026-03-27T15:00:00.000Z"
+    },
+    {
+      "id": "r13",
+      "advocateId": "u29",
+      "clientId": "u11",
+      "rating": 5,
+      "comment": "Very professional and polite.",
+      "date": "2026-03-27T16:00:00.000Z"
+    },
+    {
+      "id": "r14",
+      "advocateId": "u1774668216074",
+      "clientId": "u1774667729982",
+      "rating": 4,
+      "comment": "Good communication and support.",
+      "date": "2026-03-28T10:00:00.000Z"
+    },
+    {
+      "id": "r15",
+      "advocateId": "OKcC1ARnMyk",
+      "clientId": "L6AszXvLjaA",
+      "rating": 5,
+      "comment": "Very helpful and responsive advocate.",
+      "date": "2026-03-28T11:00:00.000Z"
+    }
+  ],
+  "caseNotes": [
+    {
+      "id": "n1",
+      "caseId": "c100",
+      "advocateId": "u12",
+      "note": "Client needs to provide additional documents.",
+      "createdAt": "2026-03-28T15:00:00.000Z"
+    },
+    {
+      "id": "n2",
+      "caseId": "c101",
+      "advocateId": "u17",
+      "note": "Strong case, proceed with legal notice.",
+      "createdAt": "2026-03-28T15:05:00.000Z"
+    },
+    {
+      "id": "n3",
+      "caseId": "c102",
+      "advocateId": "u13",
+      "note": "Family mediation suggested.",
+      "createdAt": "2026-03-28T15:10:00.000Z"
+    },
+    {
+      "id": "n4",
+      "caseId": "c104",
+      "advocateId": "u17",
+      "note": "Site inspection required.",
+      "createdAt": "2026-03-28T15:15:00.000Z"
+    },
+    {
+      "id": "n5",
+      "caseId": "c106",
+      "advocateId": "u15",
+      "note": "Collect workplace evidence.",
+      "createdAt": "2026-03-28T15:20:00.000Z"
+    },
+    {
+      "id": "n6",
+      "caseId": "c108",
+      "advocateId": "u25",
+      "note": "File cyber complaint immediately.",
+      "createdAt": "2026-03-28T15:25:00.000Z"
+    },
+    {
+      "id": "n7",
+      "caseId": "c110",
+      "advocateId": "u13",
+      "note": "Prepare divorce petition draft.",
+      "createdAt": "2026-03-28T15:30:00.000Z"
+    },
+    {
+      "id": "n8",
+      "caseId": "c112",
+      "advocateId": "u21",
+      "note": "Check municipal permissions.",
+      "createdAt": "2026-03-28T15:35:00.000Z"
+    },
+    {
+      "id": "n9",
+      "caseId": "c114",
+      "advocateId": "u25",
+      "note": "Consumer complaint draft ready.",
+      "createdAt": "2026-03-28T15:40:00.000Z"
+    },
+    {
+      "id": "n10",
+      "caseId": "c118",
+      "advocateId": "u15",
+      "note": "Prepare cheque bounce notice.",
+      "createdAt": "2026-03-28T15:45:00.000Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "nt1",
+      "userId": "u10",
+      "message": "Your case has been submitted successfully.",
+      "type": "case",
+      "read": false,
+      "createdAt": "2026-03-28T16:00:00.000Z"
+    },
+    {
+      "id": "nt2",
+      "userId": "u11",
+      "message": "Your appointment is confirmed.",
+      "type": "appointment",
+      "read": false,
+      "createdAt": "2026-03-28T16:05:00.000Z"
+    },
+    {
+      "id": "nt3",
+      "userId": "u12",
+      "message": "New case assigned to you.",
+      "type": "case",
+      "read": false,
+      "createdAt": "2026-03-28T16:10:00.000Z"
+    },
+    {
+      "id": "nt4",
+      "userId": "u14",
+      "message": "Advocate accepted your case.",
+      "type": "case",
+      "read": true,
+      "createdAt": "2026-03-28T16:15:00.000Z"
+    },
+    {
+      "id": "nt5",
+      "userId": "u15",
+      "message": "You have a new appointment request.",
+      "type": "appointment",
+      "read": false,
+      "createdAt": "2026-03-28T16:20:00.000Z"
+    },
+    {
+      "id": "nt6",
+      "userId": "u16",
+      "message": "Case status updated to active.",
+      "type": "case",
+      "read": false,
+      "createdAt": "2026-03-28T16:25:00.000Z"
+    },
+    {
+      "id": "nt7",
+      "userId": "u18",
+      "message": "Your appointment is scheduled.",
+      "type": "appointment",
+      "read": true,
+      "createdAt": "2026-03-28T16:30:00.000Z"
+    },
+    {
+      "id": "nt8",
+      "userId": "u20",
+      "message": "New update on your case.",
+      "type": "case",
+      "read": false,
+      "createdAt": "2026-03-28T16:35:00.000Z"
+    },
+    {
+      "id": "nt9",
+      "userId": "u22",
+      "message": "Advocate assigned to your case.",
+      "type": "case",
+      "read": true,
+      "createdAt": "2026-03-28T16:40:00.000Z"
+    },
+    {
+      "id": "nt10",
+      "userId": "u24",
+      "message": "Reminder: Appointment tomorrow.",
+      "type": "appointment",
+      "read": false,
+      "createdAt": "2026-03-28T16:45:00.000Z"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
